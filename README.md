@@ -4,7 +4,6 @@
 </div>
 
 <h2 align=center>» I'm a Studying Data Science and Computer Science «</h2><br>
-<h3 align=center>» Esse github é para guardar alguns estudos, não oficial «</h3><br>
 
 <img align="right" alt="" height="190px" src="./src/killua.gif">
 
